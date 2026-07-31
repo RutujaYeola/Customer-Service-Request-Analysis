@@ -1,7 +1,7 @@
 # Customer-Service-Request-Analysis
 Python Data Analysis project on NYC 311 Service Requests using Pandas, NumPy, Matplotlib, and SciPy to perform data cleaning, exploratory data analysis (EDA), visualization, and statistical hypothesis testing.
 
-<img width="1672" height="941" alt="Banner" src="https://github.com/RutujaYeola/Customer-Service-Request-Analysis" />
+<img width="1672" height="941" alt="Banner" src="https://github.com/RutujaYeola/Customer-Service-Request-Analysis/blob/main/Banner.png" />
 
 
 ## Project Overview
